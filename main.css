@@ -1,0 +1,49 @@
+main{
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 60px;
+    background-image: linear-gradient(to top right,rgb(34, 19, 240),rgb(153, 255, 51));
+}
+h1{
+    font-family: monospace;
+    font-size: 40px;
+    margin-bottom: 30px;
+    padding-top: 40px;
+    margin-left: 80px;
+}
+#first{
+    text-decoration: none;
+    color: darkblue;
+    font-family: fantasy;
+}
+body{
+    background: yellow;
+    font-family: cursive;
+}
+nav{
+    text-align: right;
+    font-size: 20px;
+    margin-bottom: 5%;
+    }
+a{
+    color:darkblue;
+    text-decoration: none;
+}
+img{
+    width: 100%;
+}
+h2{
+    text-align: center;
+    color: green;
+    text-shadow: 10px;
+}
+div{
+    margin-left: 5%;
+    margin-right: 5%;
+    color: azure;
+    font: italic bold;
+}
+p{
+    text-indent: 20px;
+    color: black;
+}
