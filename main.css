@@ -21,13 +21,17 @@ body{
     font-family: cursive;
 }
 nav{
-    text-align: right;
     font-size: 20px;
     margin-bottom: 5%;
+    display: flex;
+    justify-content: flex-end;
+     
     }
 a{
     color:darkblue;
     text-decoration: none;
+    display: block;
+    margin-left: 1%;
 }
 img{
     width: 100%;
