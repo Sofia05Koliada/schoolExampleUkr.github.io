@@ -1,5 +1,5 @@
 main{
-    margin-top: 5%;
+    margin-top: -3%;
     margin-left: 10%;
     margin-right: 8%;
     background-image: linear-gradient(to top right,rgb(34, 19, 240),rgb(153, 255, 51));
@@ -24,7 +24,7 @@ nav{
     font-size: 20px;
     margin-bottom: 5%;
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-around;
      
     }
 a{
@@ -34,7 +34,9 @@ a{
     margin-left: 1%;
 }
 img{
-    width: 100%;
+    margin-left: 10%;
+    width: 80%;
+    margin-right: 10%;
 }
 h2{
     text-align: center;
@@ -50,5 +52,4 @@ div{
 p{
     text-indent: 20px;
     color: #F0F8FF;
-    font-color:	#F0FFFF;
 }
