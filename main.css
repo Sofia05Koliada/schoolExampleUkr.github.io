@@ -53,3 +53,7 @@ p{
     text-indent: 20px;
     color: #F0F8FF;
 }
+.navi a:hover{
+    box-shadow: 4px 6px 10px 4px yellow;
+    cursor: pointer;
+}
