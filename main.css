@@ -25,8 +25,18 @@ nav{
     margin-bottom: 5%;
     display: flex;
     justify-content: space-around;
-     
     }
+nav>a{
+    background-image: linear-gradient(to top right,rgb(153, 255, 51),rgb(34, 19, 240));
+    width: 25%;
+    color: white;
+    text-align: center;
+}
+.active{
+    background-image: linear-gradient(to top left,rgb(153, 255, 51),rgb(34, 19, 240));
+    box-shadow: 4px 6px 10px 4px blue;
+    cursor: pointer;
+}
 a{
     color:darkblue;
     text-decoration: none;
