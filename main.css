@@ -34,7 +34,7 @@ nav>a{
 }
 .active{
     background-image: linear-gradient(to top left,rgb(153, 255, 51),rgb(34, 19, 240));
-    box-shadow: 4px 6px 10px 4px blue;
+    box-shadow: 4px 6px 10px 4px darkblue;
     cursor: pointer;
 }
 a{
@@ -50,13 +50,13 @@ img{
 }
 h2{
     text-align: center;
-    color: green;
+    color: red;
     text-shadow: 10px;
 }
 div{
     margin-left: 5%;
     margin-right: 5%;
-    color: azure;
+    color: green;
     font: italic bold;
 }
 p{
